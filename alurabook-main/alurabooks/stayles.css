@@ -1,0 +1,15 @@
+@import url("stayles/header.css");
+
+
+
+
+
+
+:root {
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+
